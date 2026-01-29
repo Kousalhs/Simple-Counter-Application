@@ -31,10 +31,11 @@ A simple passenger counter application built using HTML, CSS and JavaScript. Thi
 - Handling number logic and text display
 - Basic project structure with HTML, CSS & JS
 
-  ---
 
-  ## Live Demo
+---
 
-  [Link]([https://gkbirthdaywebsite.netlify.app/](https://gkpassengercounterapp.netlify.app/))
+## Live Demo
 
-  ---
+[Link]([https://gkbirthdaywebsite.netlify.app/](https://gkpassengercounterapp.netlify.app/))
+
+---
