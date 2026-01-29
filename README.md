@@ -36,6 +36,6 @@ A simple passenger counter application built using HTML, CSS and JavaScript. Thi
 
 ## Live Demo
 
-[Link]([https://gkbirthdaywebsite.netlify.app/](https://gkpassengercounterapp.netlify.app/))
+[Link](https://gkpassengercounterapp.netlify.app/)
 
 ---
